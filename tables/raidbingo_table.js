@@ -28,6 +28,7 @@ bingoList[4] = [
   { name: "'Go to A/1/D/G' all screamed at once", types: ["mech"] },
   { name: "Lyra dances during mech explanation", types: ["lyra","emote"] },
   { name: ":blobnom:", types: ["emote"] },
+  { name: "muh tv", types: ["meta"] },
   { name: "'WHAT WAS THAT?!'", types: ["expeltive","question"] }
 ];
 bingoList[5] = [
@@ -68,6 +69,7 @@ bingoList[9] = [
   { name: "(se.6)", types: ["noise","emote"] },
   { name: "'stack on his butt'", types: ["quote","mech"] },
   { name: "gobbiespeak", types: ["statement"] },
+  { name: "someone draws a diagram", types: ["someone","meta"] },
   { name: "Janelle", types: ["expeltive","pspecific"] }
 ];
 bingoList[10] = [
@@ -84,6 +86,7 @@ bingoList[11] = [
   { name: "calls the mechanic out right after it happens", types: ["mech","statement"] },
   { name: "'Sam, Megabeam?' when the attack is clearly not Megabeam", types: ["sam","mech"] },
   { name: "'go to L' (i is also acceptable)", types: ["mech","quote"] },
+  { name: "Aeo fails to tankswap", types: ["aeo","meta"] },
   { name: "someone references the bingo card (you are disqualified)", types: ["meta"] }
 ];
 bingoList[12] = [
@@ -108,6 +111,7 @@ bingoList[14] = [
 bingoList[15] = [
   { name: "a semi-coherent conversation is had using exclusively the autotranslate function", types: ["statement"] },
   { name: "someone learns a new word and wishes they hadn't", types: ["someone","meta"] },
+  { name: "someone forgets to switch classes before queue and rolls with it", types: ["someone","meta"] },
   { name: "/tdance", types: ["emote"] },
   { name: "/gdance", types: ["emote"] }
 ];
@@ -121,6 +125,7 @@ bingoList[16] = [
 bingoList[17] = [
  { name: "committing to an incorrect callout just to save face", types: ["mech","statement"] },
  { name: "'ENOCHAN NO'", types: ["expeltive","jspecific"] },
+  { name: "'oops i got greedy'", types: ["quote"] },
  { name: "someone accidentally facepulls the boss", types: ["someone"] }
 ];
 bingoList[18] = [
@@ -139,11 +144,13 @@ bingoList[20] = [
  { name: "Elidibus Serpentarius comes up", types: ["meta","canon"] },
  { name: "'social distancing ya'll lets spread'", types: ["meta","mech","quote"] },
  { name: "'that looks like a tankswap'", types: ["mech","quote"] },
+ { name: "'hold on my cat is puking'", types: ["quote","meta"] },
  { name: "forward and back and fooorward and back and", types: ["noise","canon"] }
 ];
 bingoList[21] = [
  { name: "everyone screaming for LB when it's already casting", types: ["lb","statement","special"] },
  { name: "ps4 load times", types: ["sam","meta"] },
+ { name: "'you don't pay my sub'", types: ["quote","meta"] },
  { name: "'wait don't queue i need to repair'", types: ["quote"] },
  { name: "Rito jumps off the arena", types: ["rito","jspecific"] }
 ];
