@@ -18,7 +18,6 @@ bingoList[2] = [
 bingoList[3] = [
   { name: "Marisa mentions the CE", types: ["marisa","ce"] },
   { name: "Someone *else* mentions the CE which prompts a long and loving speech from Marisa", types: ["marisa","ce"] },
-  { name: "Marisa is actually not late", types: ["marisa"] },
   { name: "Rito blames server ticks", types: ["rito","statement"] },
   { name: "'shhhhhit'", types: ["expeltive"] },
   { name: "Judy asks how to do a mech when everyone else is too afraid to ask", types: ["judy","statement"] }
