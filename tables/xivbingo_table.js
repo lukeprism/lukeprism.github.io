@@ -37,7 +37,7 @@ bingoList[6] = [
 ];
 bingoList[7] = [
   { name: "Primals play ancient eggroll come ready to fry", types: ["quote","jspecific","heals"] },
-  { name: "Primals play Battle on the Big Bridge", types: ["statement"] },
+  { name: "Primals play titania theme no i dont know the name", types: ["statement"] },
   { name: "Primals feat. kojifox on vocals", types: ["noise","pspecific"] },
   { name: "Primals advertise their cover album", types: ["quote"] }
 ];
@@ -50,6 +50,7 @@ bingoList[8] = [
 bingoList[9] = [
   { name: "new lore is dropped apropos of nothing", types: ["mech","statement"] },
   { name: "namazu lore", types: ["jspecific","sattement"] },
+  { name: "g'raha tia is featured extensively", types: ["jspecific","sattement"] },
   { name: "hints that we will be murdering Hydaelyn", types: ["someone","meta"] },
 ];
 bingoList[10] = [
@@ -78,62 +79,65 @@ bingoList[13] = [
 ];
 bingoList[14] = [
   { name: "new method of transportation", types: ["meta","someone"] },
-  { name: "Aeo is referred to as Rito and only Aeo notices", types: ["aeo","statement"] },
-  { name: "someone who is definitely not playing a tank role is shirked", types: ["meme","jspecific"] }
+  { name: "more underwater mechanics", types: ["aeo","statement"] },
+  { name: "custom teleport locations", types: ["meme","jspecific"] }
 ];
 bingoList[15] = [
-  { name: "a semi-coherent conversation is had using exclusively the autotranslate function", types: ["statement"] },
-  { name: "/gdance", types: ["emote"] },
-  { name: "/yoldance", types: ["emote"] }
+  { name: "content featuring catboys in some manner wins the fanart showcase", types: ["statement"] },
+  { name: "content featuring viera in some manner wins the fanart showcase", types: ["emote"] },
+  { name: "they show off the fanfest food on stream", types: ["emote"] }
 ];
 bingoList[16] = [
- { name: "someone accidentally walks off the arena", types: ["someone","dspecific"] },
- { name: "unfortunatly timed acceptance of raise results in instant death", types: ["mech","statement"] },
- { name: "healer has dance partner for some reason", types: ["jspecific"] }
+ { name: "yoship drinks something on camera", types: ["someone","dspecific"] },
+ { name: "wishywashy answer to a question involving RP", types: ["mech","statement"] },
+ { name: "someone asks for built-in parser and yoship looks at the camera like he's on the office", types: ["mech","statement"] },
+ { name: "a question during Q&A makes yoship laugh", types: ["jspecific"] }
 ];
 bingoList[17] = [
- { name: "committing to an incorrect callout just to save face", types: ["mech","statement"] },
- { name: "'ENOCHAN NO'", types: ["expeltive","jspecific"] },
- { name: "someone abuses a safety pixel", types: ["someone"] }
+ { name: "more t-shirt hints ", types: ["mech","statement"] },
+ { name: "full CG cutscene is shown", types: ["expeltive","jspecific"] },
+ { name: "we get a release date", types: ["someone"] }
 ];
 bingoList[18] = [
- { name: "the raise misses and no one else has swift", types: ["jspecific"] },
- { name: "'wow that did [my max health] in damage'", types: ["quote"] },
- { name: "internet problems :tm:", types: ["quote"] }
+ { name: "collector's edition mount is a boat", types: ["jspecific"] },
+ { name: "free trial update to include stormblood", types: ["quote"] },
+ { name: "emojis are implemented into text chat", types: ["quote"] },
+ { name: "minion battle mode is announced", types: ["quote"] }
 ];
 bingoList[19] = [
- { name: "late start due to timezone shenanigans", types: ["statement"] },
- { name: "'we have to clear before maintenance tonight'", types: ["special","quote"] },
- { name: "someone nearly spoils MSQ for a slacker", types: ["someone"] }
+ { name: "releases in october", types: ["statement"] },
+ { name: "releases in november", types: ["special","quote"] },
+ { name: "releases in september", types: ["someone"] }
 ];
 bingoList[20] = [
- { name: "Elidibus Serpentarius comes up", types: ["meta","canon"] },
- { name: "'social distancing ya'll lets spread'", types: ["meta","mech","quote"] },
- { name: "marker placement is berated", types: ["rito","jspecific"] }
+ { name: "estinien shown off in trusts", types: ["meta","canon"] },
+ { name: "glamour dresser for your HOUSE", types: ["meta","mech","quote"] },
+ { name: "mounts now allowed in major cities", types: ["rito","jspecific"] }
 ];
 bingoList[21] = [
- { name: "everyone screaming for LB when it's already casting", types: ["lb","statement","special"] },
- { name: "'you don't pay my sub'", types: ["quote","meta"] },
- { name: "healer lb3 cheeseing a mech", types: ["mech","lb"] }
+ { name: "sanctuary has something like fe support system with npcs", types: ["lb","statement","special"] },
+ { name: "updates to the Feast format announced", types: ["quote","meta"] },
+ { name: "scattered clapping for a feature no one wanted", types: ["mech","lb"] }
 ];
 bingoList[22] = [
- { name: "Complete silence when it's [The Pull]", types: ["statement","special"] },
- { name: "'ah wait, gotta start recording/the stream'", types: ["quote","rito"] },
- { name: "someone is a different race than they were last session", types: ["someone","special"] }
+ { name: "more gpose stickers", types: ["statement","special"] },
+ { name: "grecord where you can make little videos with gpose", types: ["quote","rito"] },
+ { name: "mechanics that utilize gpose in some capacity", types: ["someone","special"] }
 ];
 bingoList[23] = [
- { name: "'DON'T LEAVE we need a screenshot'", types: ["statement","quote","special"] },
- { name: "an executive decision to turn echo back on is made", types: ["meta","special"] },
- { name: "overheal is 60%", types: ["meta","jspecific"] }
+ { name: "the trivia segment is cringe af", types: ["statement","quote","special"] },
+ { name: "alex moukala drops a sick beat", types: ["meta","special"] },
+ { name: "'you win... this free shoutout lolol'", types: ["meta","special"] },
+ { name: "video issues", types: ["meta","jspecific"] }
 ];
 bingoList[24] = [
- { name: "there's a sub this session", types: ["sub","special"] },
- { name: "controller woes", types: ["meta","pspecific"] },
- { name: "going over mechs for a sub", types: ["mech","sub"] }
+ { name: "new dps does not use a scythe and everyone is blindsided", types: ["sub","special"] },
+ { name: "COVID prevention measures addressed", types: ["meta","pspecific"] },
+ { name: "ishgard community bath area", types: ["mech","sub"] }
 ];
 bingoList[25] = [
-  { name: "first clear in 3+ weeks", types: ["special"] },
-  { name: "we got the clear!!", types: ["special"] },
-  { name: "cleared on the first pull", types: ["special"] }
+  { name: "can do dungeons with max lvl toolkit scaled down", types: ["special"] },
+  { name: "yoship goes afk and gets swarmed", types: ["special"] },
+  { name: "fandaniel face reveal", types: ["special"] }
 ];
 $(function() { srl.bingo(bingoList, 5); });
