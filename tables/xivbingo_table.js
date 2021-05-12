@@ -28,7 +28,7 @@ bingoList[5] = [
   { name: "gear squish", types: ["statement"] },
   { name: "number squish = ARR-esque numbers", types: ["someone"] },
   { name: "noct ast is shot live on stream", types: ["sam","jspecific"] },
-  { name: "Judy makes a diagram", types: ["judy"] }
+  { name: "beastmaster limited job announced", types: ["judy"] }
 ];
 bingoList[6] = [
   { name: "more gender unlocked clothing", types: ["pspecific","statement","meta"] },
