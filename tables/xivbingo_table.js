@@ -10,7 +10,7 @@ bingoList[2] = [
   { name: "parsing is mentioned", types: ["quote"] },
   { name: "another ff game is mentioned by name", types: ["someone"] },
   { name: "belt joke", types: ["lb","statement"] },
-  { name: "TO THE MOON", types: ["question","calvin"] }
+  { name: "TO THE MOON (a scene on the moon is shown)", types: ["question","calvin"] }
 ];
 bingoList[3] = [
   { name: "female hroth and/or male viera", types: ["marisa","ce"] },
